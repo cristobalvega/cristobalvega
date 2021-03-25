@@ -18,6 +18,3 @@ Here are some ideas to get you started:
 # I'm Cristobal Vega, nice to meet you 🤓
 
 ### Developer 💻 | Platzi Master Cohort 1 💪💚
-
->![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristobalvega&theme=radical)
->![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cristobalvega&theme=radical)
