@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there  👋, I'm Cristobal Vega 🧑‍💻</h1>
 
-[![Header GitHub cristobalvega](https://cristobalvega.me/images/platzi-conf-2019.jpg)
+![Header GitHub cristobalvega](https://cristobalvega.me/images/platzi-conf-2019.jpg)
 
 
 <p align='center'>
